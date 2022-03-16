@@ -1,0 +1,15 @@
+R
+généralités
+https://www.youtube.com/watch?v=I603LRdarlw&list=PLd5KCIp7jmqeEunrycs-LwT2PGGTA-v9-
+bases
+programme de comparaison
+avancé
+
+R Studio
+généralités
+
+R Shiny
+généralités 			ok
+bases
+programme
+avancé
